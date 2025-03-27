@@ -1,0 +1,19 @@
+Food Environment Atlas data download
+"Errata: On September 10, 2020, the Food Environment Atlas data files were reposted after duplicate county records were removed from the Local category. The two counties that had duplicate records were Chester, PA (FIPS code = 42029) and Mecklenburg, NC (FIPS code = 37119). 
+No other values were affected."
+Contact: Alana Rhone (alana.y.rhone@usda.gov)
+""
+Notes about the Food Environment Atlas download data:
+""
+This file contains multiple spreadsheets:
+""
+1.  A variable list that includes metadata about all of the variables that are mapped in the Food Environment Atlas.
+2.  Spreadsheets that contain data for each of the Food Environment Atlas categories.
+3.  County- and State-level supplemental data that were used as the basis for a number of calculations in the Food Environment Atlas.
+""
+"Note: Data that were not available, not applicable, or suppressed for specific counties are denoted with a blank cell or -9999."
+""
+Release history:
+The original release date of this file is August 2020.
+""
+"Previous releases occurred in September 2017, August 2015, February 2014, November 2012, June 2012, and January 2011."
